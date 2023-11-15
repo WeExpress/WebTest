@@ -555,7 +555,7 @@ body {
 .swiper-button-next::after {
   display: none;
 }
-
+/*
 .page02 {
   width: 100%;
   height: 400px;
@@ -578,4 +578,4 @@ body {
   width: 100%;
   height: 400px;
   background: orange;
-}
+}*/
